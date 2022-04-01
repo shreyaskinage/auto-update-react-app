@@ -1,0 +1,4 @@
+appId: com.example.ReactApp
+publish:
+  provider: github
+  token: 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
